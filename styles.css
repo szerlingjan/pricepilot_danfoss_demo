@@ -128,7 +128,8 @@ textarea {
   width: 100%;
   max-width: 1120px;
   margin: 0 auto;
-  padding: 0 1.25rem;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
 }
 
 /* ---------- header and footer ---------- */
@@ -774,7 +775,8 @@ textarea {
   }
 
   .wrap {
-    padding: 0 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 
   .card {
