@@ -70,7 +70,7 @@ node pricing.test.js
 
 ## Background
 
-Built in 2025 as part of a high-school business project, alongside a business plan, market research and an investor pitch. In 2026 it was cleaned up for this portfolio: the calculator was moved to a single page, the pricing logic was extracted and tested, and the UI was translated to English (prices stay in Polish złoty).
+Built in 2025 as part of a high-school business project, alongside a business plan, market research and an investor pitch. In 2026 it was cleaned up for this portfolio: the calculator was moved to a single page, the pricing logic was extracted and tested, and the UI was translated to English (prices stay in Polish złoty). The visual design follows the original site.
 
 ## Next step (designed, not built)
 
