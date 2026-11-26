@@ -2,7 +2,7 @@
 
 **An instant, transparent quote calculator for a short-form video production service.**
 
-**Live demo:** https://YOUR-USERNAME.github.io/YOUR-REPO/ *(placeholder: GitHub Pages link goes here)*
+**Live demo:** https://szerlingjan.github.io/pricepilot_danfoss_demo/
 
 ## The problem
 
